@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+
+/* global bütün uygulamayı ilgilendiren classlar styles.css dosyanına yazılır */
+
+
+.active {
+  color:blue;
+  background-color: yellow;
+}
